@@ -1,0 +1,226 @@
+{
+  "language": "Czech",
+  "instructions": {
+    "title": "Úloha anotace: Narativní rámování v článcích Wikipedie",
+    "sections": [
+      {
+        "heading": "Přehled",
+        "content": "V tomto úkolu budete analyzovat, jak jsou historičtí aktéři a jejich činy znázorňovány v článcích Wikipedie o koloniálních konfliktech. Vaše anotace nám pomůžou pochopit, jak různé jazykové verze Wikipedie představují stejné historické události.\n\nJde o úlohu podrobné lingvistické analýzy. Prosím, pečlivě si přečtěte pokyny a ptejte se, pokud vám něco není jasné."
+      },
+      {
+        "heading": "Co budete anotovat",
+        "content": "Budete anotovat dva hlavní aspekty:\n\n1. **Znázornění aktérů**: Jak jsou charakterizovány lidé/skupiny zapojené do historických konfliktů? Jsou znázorňovány jako hrdinové, oběti, záporáci nebo jinak?\n\n2. **Znázornění akcí**: Jak jsou akce popsány? Jsou popisy konkrétní a specifické, nebo abstraktní a interpretativní?"
+      },
+      {
+        "heading": "Kategorie znázornění aktérů",
+        "content": "Když se setkáte s odkazem na historického aktéra (osobu, skupinu, národ), přiřaďte jim jednu hlavní roli:\n\n**Role protagonisty** (pozitivní charakterizace):\n- Strážce: Ochránci hodnot, spravedlnosti a bezpečnosti\n- Mučedník: Ti, kdo se obětují pro věc\n- Mírce: Ti, kdo řeší konflikty\n- Rebelant: Ti, kdo bojují za osvobození nebo změnu\n- Outsider: Znevýhodněné skupiny, které bojují proti silnějším silám\n- Cnostný: Ti, kdo jsou znázorňováni jako cnostní a morální\n\n**Role antagonisty** (negativní charakterizace):\n- Podněcovatel: Ti, kdo vyprovokují konflikty\n- Spiklenec: Ti, kdo se účastní spiknutí a skrytých aktivit\n- Tyran: Nespravedliví vládcové, kteří utlačují ostatní\n- Zahraniční protivník: Externí nepřátelé, kteří jednají proti národním zájmům\n- Zrádce: Ti, kdo zrazují svou věc nebo zemi\n- Špion: Ti, kdo se zapojují do špionáže\n- Sabotér: Ti, kdo záměrně způsobují narušení\n- Korumpovaný: Ti, kdo se zapojují do neetických aktivit\n- Nekompetentní: Ti, kdo způsobují škody nedostatkem dovedností\n- Terorista: Ti, kdo používají násilí pro ideologické cíle\n- Podvodník: Ti, kdo zkreslují pravdu a šíří dezinformace\n- Bigot: Ti, kdo jsou obviňováni z nepřátelství nebo diskriminace proti určitým skupinám\n\n**Role nevinných** (charakterizace jako oběť):\n- Zapomenuto: Marginalizované a přehlížené skupiny\n- Vykorisťováno: Ti, kdo jsou používáni v zájmu ostatních\n- Oběť: Ti, kdo trpí okolnostmi mimo jejich kontrolu\n- Kozlíček: Ti, kdo jsou nespravedlivě obviňováni za problémy"
+      },
+      {
+        "heading": "Kategorie znázornění akcí",
+        "content": "Když se setkáte s popisy akcí (slovesa, přídavná jména, podstatná jména popisující chování), klasifikujte je podle jejich stupně abstrakce:\n\n**Popisovací akční slovesa (DAV)**: Konkrétní, specifické chování\n- Příklady: \"udeří\", \"běží\", \"staví\", \"útočí\", \"vyjednává\"\n\n**Interpretativní akční slovesa (IAV)**: Středně abstraktní, interpretující chování\n- Příklady: \"pomáhá\", \"škodí\", \"podporuje\", \"brání\", \"vzdoruje\"\n\n**Stavová slovesa (SV)**: Abstraktní psychické stavy a dispozice\n- Příklady: \"miluje\", \"chce\", \"věří\", \"bojí se\", \"touží\"\n\n**Přídavná jména (ADJ)**: Deskriptory kvalit\n- Příklady: \"přátelský\", \"krutý\", \"statečný\", \"poctivý\", \"agresivní\"\n\n**Podstatná jména (NN)**: Nejabstraktnější, označení podstatou\n- Příklady: \"tyran\", \"hrdina\", \"bojovník za svobodu\", \"diktátor\""
+      },
+      {
+        "heading": "Princip anotace",
+        "content": "Když věta obsahuje více relevantních slov nebo frází, identifikujte **nejvyšší přítomný stupeň abstrakce**. Například:\n- \"Zorganizoval ozbrojený odpor\" (DAV) vs. \"Je bojovník za svobodu\" (NN)\n- Podstatné jméno je abstraktnější a může naznačovat silnější rámování\n\nZaměřte se na slova, která popisují historické aktéry a jejich akce v kontextu konfliktu."
+      },
+      {
+        "heading": "Standardy kvality",
+        "content": "- Věnujte čas každé anotaci\n- Zvažte širší kontext článku\n- Buďte konzistentní ve svých interpretacích\n- Pokud si nejste jisti, poskytněte své nejlepší úsudek na základě definic\n- Můžete pro jednu větu anotovat více rolí nebo kategorií, pokud je to opodstatněné"
+      }
+    ]
+  },
+  "language_proficiency": {
+    "title": "Ověření jazykové způsobilosti",
+    "instructions": "Prosím, odpovězte na následující otázky, abyste ověřili svou českou jazykovou způsobilost. Nejde o 'testy'—pomáhají nám zajistit, aby anotátoři mohli přesně pochopit nuancovaný historický jazyk.",
+    "questions": [
+      {
+        "id": "proficiency_1",
+        "type": "multiple_choice",
+        "question": "Co znamená výraz 'zahraniční protivník' v politickém kontextu?",
+        "options": [
+          "A) Osoba, která se s vami osobně nesouhlasí",
+          "B) Externí nepřítel jednající proti národním zájmům",
+          "C) Jakýkoli konkurent v podnikání",
+          "D) Dočasný diplomatický nesouhlas"
+        ],
+        "correct_answer": "B",
+        "explanation": "V politickém a historickém kontextu 'zahraniční protivník' odkazuje na externí nepřátele, kteří jednají proti zájmům národa. Tato nuance je důležitá pro anotaci."
+      },
+      {
+        "id": "proficiency_2",
+        "type": "multiple_choice",
+        "question": "Která věta používá abstraktnější jazyk k popisu stejné akce?",
+        "options": [
+          "A) Vojáci pochodovali přes hranici",
+          "B) Národ provedl invazi",
+          "C) Vojska překročila hraniční linii",
+          "D) Armády pronikly na nepřátelské území"
+        ],
+        "correct_answer": "B",
+        "explanation": "Věta B používá 'provedl invazi' (IAV) a 'národ' (NN), což jsou abstraktnější a interpretativnější než konkrétní popisy akcí v ostatních možnostech."
+      },
+      {
+        "id": "proficiency_3",
+        "type": "multiple_choice",
+        "question": "Jaký je rozdíl mezi 'Vláda zavedla omezení' a 'Vláda je utlačující'?",
+        "options": [
+          "A) Znamenají přesně totéž",
+          "B) První je konkrétní akce, druhá je abstraktní charakterizace",
+          "C) První je pozitivní, druhá negativní",
+          "D) Není významný rozdíl v obecném smyslu"
+        ],
+        "correct_answer": "B",
+        "explanation": "První popisuje konkrétní akci (DAV), zatímco druhá přiřazuje abstraktní kvalitu (ADJ/NN), která charakterizuje samotnou vládu. Toto rozlišení je ústředním prvkem anotace znázornění akcí."
+      }
+    ]
+  },
+  "example_annotations": {
+    "title": "Vedené příklady a ověření porozumění",
+    "instructions": "Níže jsou příklady vět z historických článků Wikipedie. Projdeme si anotace společně a pak si je budete sami procvičovat.",
+    "worked_examples": [
+      {
+        "id": "example_1",
+        "text": "Irští rebelanti po dobu konfliktu bojovali proti silám britské okupace.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Irští rebelanti",
+              "role_explanation": "Termín 'rebelanti' je role protagonisty (konkrétně: Rebelant), protože bojují za osvobození a zpochybňují status quo. 'Irští' poskytuje kontext jejich národní identity."
+            },
+            {
+              "mention": "Síly britské okupace",
+              "role_explanation": "Jedná se o role antagonisty (Podněcovatel, Zahraniční protivník), protože jsou znázorňováni jako externí okupanti."
+            }
+          ],
+          "actions": [
+            {
+              "word": "bojovali",
+              "category": "Popisovací akční sloveso (DAV)",
+              "explanation": "Jedná se o konkrétní, specifický popis vojenské akce."
+            }
+          ]
+        }
+      },
+      {
+        "id": "example_2",
+        "text": "Utlačovaní kolonisté trpěli systematickou vykořisťováním pod imperiální vládou.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Kolonisté",
+              "role_explanation": "Jedná se o role nevinných (Vykorisťováno, Oběť), protože jsou charakterizováni jako trpící a vykořisťovaní."
+            }
+          ],
+          "actions": [
+            {
+              "word": "utlačovaní",
+              "category": "Přídavné jméno (ADJ)",
+              "explanation": "Jedná se o abstraktní deskriptor kvality nebo stavu, popisující kolonisty, nikoli konkrétní akci."
+            },
+            {
+              "word": "trpěli",
+              "category": "Interpretativní akční sloveso (IAV)",
+              "explanation": "Toto interpretuje zkušenost kolonistů—je to abstraktnější než konkrétní akce jako 'byli biti', ale konkrétnější než 'byli nešťastní'."
+            },
+            {
+              "word": "vykořisťováním",
+              "category": "Podstatné jméno (NN)",
+              "explanation": "Nejabstraktnější úroveň—toto podstatné jméno označuje systematickou povahu újmy, spíše než popisovat konkrétní akty vykořisťování."
+            }
+          ]
+        }
+      }
+    ],
+    "practice_questions": [
+      {
+        "id": "practice_1",
+        "type": "annotation",
+        "text": "Československé hnutí za nezávislost úspěšně odolalo německé dominanci.",
+        "task": "Identifikujte role aktérů pro 'československé hnutí za nezávislost' a 'německou dominanci'",
+        "hint": "Přemýšlejte o tom, zda jsou znázorňovány jako hrdinové/osvoboditelé nebo záporáci/utlačovatelé.",
+        "sample_answer": {
+          "czech_movement": "Role protagonisty - Rebelant (bojuje za nezávislost)",
+          "german_domination": "Role antagonisty - Tyran/Zahraniční protivník (utlačující externí kontrola)"
+        }
+      },
+      {
+        "id": "practice_2",
+        "type": "annotation",
+        "text": "Vláda ignorovala marginalizované obyvatelstvo a zavedla přísné politiky.",
+        "task": "Klasifikujte slova akcí: 'ignorovala' a 'zavedla'",
+        "hint": "Zvažte, zda každé slovo popisuje konkrétní akci nebo abstraktnější kvalitu.",
+        "sample_answer": {
+          "ignorovala": "Interpretativní akční sloveso (IAV) - interpretuje zanedbání, aniž by popsalo konkrétní akci",
+          "zavedla": "Popisovací akční sloveso (DAV) - konkrétní akce zavedení politiky"
+        }
+      },
+      {
+        "id": "practice_3",
+        "type": "annotation",
+        "text": "Nacionalistický režim byl krutý a neupřímný v zacházení s menšinami.",
+        "task": "Identifikujte kategorie znázornění akcí pro 'krutý' a 'neupřímný'",
+        "hint": "Jedná se o deskriptory kvalit. Do jaké kategorie patří?",
+        "sample_answer": {
+          "krutý": "Přídavné jméno (ADJ) - abstraktní deskriptor charakteru režimu",
+          "neupřímný": "Přídavné jméno (ADJ) - abstraktní deskriptor upřímnosti režimu"
+        }
+      }
+    ],
+    "comprehension_check": {
+      "title": "Ověření porozumění",
+      "instructions": "Odpovězte na tyto otázky, abyste potvrdili, že rozumíte úloze. Musíte správně odpovědět na alespoň 3 ze 4 otázek, abyste mohli pokračovat.",
+      "questions": [
+        {
+          "id": "check_1",
+          "type": "multiple_choice",
+          "question": "Narazíte na větu: 'Osvoboditelé osvobodili utlačované lidi.' Jaké role byste přiřadili?",
+          "options": [
+            "A) 'Osvoboditelé' = Protagonista (Rebelant); 'lidé' = Nevinní (Oběť)",
+            "B) 'Osvoboditelé' = Antagonista; 'lidé' = Protagonista",
+            "C) 'Osvoboditelé' = Nevinní; 'lidé' = Antagonista",
+            "D) Oba jsou neutrální bez rolí"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": "check_2",
+          "type": "multiple_choice",
+          "question": "Která úroveň abstrakce je NEJABSTRAKTNĚJŠÍ?",
+          "options": [
+            "A) Popisovací akční sloveso",
+            "B) Interpretativní akční sloveso",
+            "C) Podstatné jméno",
+            "D) Stavové sloveso"
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "id": "check_3",
+          "type": "multiple_choice",
+          "question": "Slovo 'spiklenec' ve větě 'Generál byl spiklenci' představuje:",
+          "options": [
+            "A) Roli znázornění aktéra (Antagonista)",
+            "B) Kategorii znázornění akcí (Podstatné jméno)",
+            "C) Obojí A a B (je to jak značka role aktéra, TAKÉ podstatné jméno)",
+            "D) Ani jedno—je to jen popisný termín"
+          ],
+          "correct_answer": "C",
+          "explanation": "Slovo 'spiklenec' slouží dvojímu účelu: je to Podstatné jméno v systému znázornění akcí A označuje aktéra rolí Antagonisty 'Spiklenec' v systému znázornění aktérů."
+        },
+        {
+          "id": "check_4",
+          "type": "multiple_choice",
+          "question": "Při anotaci 'Statační vojáci bránili svou vlast', jaké akce byste identifikovali?",
+          "options": [
+            "A) 'statační' (ADJ), 'bránili' (DAV)",
+            "B) 'statační' (role Protagonisty), 'bránili' (IAV)",
+            "C) 'vojáci' (NN), 'bránili' (SV)",
+            "D) 'vojáci' (role Strážce), 'vlast' (DAV)"
+          ],
+          "correct_answer": "A",
+          "explanation": "'Statační' je Přídavné jméno (ADJ) popisující kvalitu, a 'bránili' je Popisovací akční sloveso (DAV) popisující konkrétní vojenskou akci."
+        }
+      ]
+    }
+  }
+}

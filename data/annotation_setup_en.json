@@ -1,0 +1,226 @@
+{
+  "language": "English",
+  "instructions": {
+    "title": "Annotation Task: Narrative Framing in Wikipedia Articles",
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "In this task, you will analyze how historical actors and their actions are portrayed in Wikipedia articles about colonial conflicts. Your annotations will help us understand how different language editions of Wikipedia frame the same historical events.\n\nThis is a detailed linguistic analysis task. Please read the instructions carefully and ask questions if anything is unclear."
+      },
+      {
+        "heading": "What You Will Annotate",
+        "content": "You will annotate two main aspects:\n\n1. **Actor Portrayal**: How are the people/groups involved in historical conflicts characterized? Are they portrayed as heroes, victims, villains, or in other ways?\n\n2. **Action Portrayal**: How are actions described? Are descriptions concrete and specific, or abstract and interpretive?"
+      },
+      {
+        "heading": "Actor Portrayal Categories",
+        "content": "When you encounter a reference to a historical actor (person, group, nation), assign them one primary role:\n\n**Protagonist Roles** (positive characterization):\n- Guardian: Protectors of values, justice, safety\n- Martyr: Those who sacrifice for a cause\n- Peacemaker: Those who resolve conflicts\n- Rebel: Those fighting for liberation or change\n- Underdog: Disadvantaged groups fighting against greater forces\n- Virtuous: Those portrayed as righteous and moral\n\n**Antagonist Roles** (negative characterization):\n- Instigator: Those who provoke conflict\n- Conspirator: Those engaged in plots and covert activities\n- Tyrant: Unjust rulers who oppress others\n- Foreign Adversary: External enemies acting against national interests\n- Traitor: Those who betray their cause or country\n- Spy: Those engaged in espionage\n- Saboteur: Those who deliberately cause disruption\n- Corrupt: Those engaging in unethical activities\n- Incompetent: Those causing harm through lack of skill\n- Terrorist: Those using violence for ideological ends\n- Deceiver: Those who manipulate truth and spread misinformation\n- Bigot: Those showing hostility or discrimination\n\n**Innocent Roles** (victimized characterization):\n- Forgotten: Marginalized and overlooked groups\n- Exploited: Those used for others' gain\n- Victim: Those suffering harm\n- Scapegoat: Those unjustly blamed"
+      },
+      {
+        "heading": "Action Portrayal Categories",
+        "content": "When you encounter descriptions of actions (verbs, adjectives, nouns describing behavior), classify them by their level of abstraction:\n\n**Descriptive Action Verbs (DAV)**: Concrete, specific behaviors\n- Examples: \"hit\", \"runs\", \"builds\", \"attacks\", \"negotiates\"\n\n**Interpretive Action Verbs (IAV)**: Mid-level abstractions interpreting behavior\n- Examples: \"helps\", \"harms\", \"supports\", \"obstructs\", \"opposes\"\n\n**State Verbs (SV)**: Abstract mental states and dispositions\n- Examples: \"loves\", \"wants\", \"believes\", \"fears\", \"desires\"\n\n**Adjectives (ADJ)**: Descriptors of qualities\n- Examples: \"friendly\", \"cruel\", \"brave\", \"honest\", \"aggressive\"\n\n**Nouns (NN)**: Most abstract, labeling by essence\n- Examples: \"bully\", \"hero\", \"tyrant\", \"freedom fighter\""
+      },
+      {
+        "heading": "Annotation Principle",
+        "content": "When a sentence contains multiple relevant words or phrases, identify the **highest level of abstraction present**. For example:\n- \"He organized armed resistance\" (DAV) vs. \"He is a freedom fighter\" (NN)\n- The noun is more abstract and may indicate stronger framing\n\nFocus on words that describe the historical actors and their actions in relation to the conflict."
+      },
+      {
+        "heading": "Quality Standards",
+        "content": "- Take your time with each annotation\n- Consider the broader context of the article\n- Be consistent in your interpretations\n- If you're uncertain, provide your best judgment based on the definitions\n- You can annotate multiple roles or categories for a single sentence if warranted"
+      }
+    ]
+  },
+  "language_proficiency": {
+    "title": "Language Proficiency Verification",
+    "instructions": "Please answer the following questions to verify your English proficiency. These are not 'tests'—they help us ensure annotators can accurately understand nuanced historical language.",
+    "questions": [
+      {
+        "id": "proficiency_1",
+        "type": "multiple_choice",
+        "question": "What does the phrase 'foreign adversary' most closely mean in political context?",
+        "options": [
+          "A) A person who disagrees with you personally",
+          "B) An external enemy acting against national interests",
+          "C) Any competitor in business",
+          "D) A temporary diplomatic disagreement"
+        ],
+        "correct_answer": "B",
+        "explanation": "In political and historical contexts, 'foreign adversary' refers to external enemies acting against a nation's interests. This nuance is important for annotation."
+      },
+      {
+        "id": "proficiency_2",
+        "type": "multiple_choice",
+        "question": "Which sentence uses more abstract language to describe the same action?",
+        "options": [
+          "A) The soldiers marched across the border",
+          "B) The nation invaded its neighbor",
+          "C) The troops crossed the frontier line",
+          "D) The armies moved into enemy territory"
+        ],
+        "correct_answer": "B",
+        "explanation": "Sentence B uses 'invaded' (IAV) and 'nation' (NN), which are more abstract and interpretive than the concrete action descriptions in the other options."
+      },
+      {
+        "id": "proficiency_3",
+        "type": "multiple_choice",
+        "question": "What is the difference between 'The government imposed restrictions' and 'The government is oppressive'?",
+        "options": [
+          "A) They mean exactly the same thing",
+          "B) The first is concrete action, the second is abstract characterization",
+          "C) The first is positive, the second is negative",
+          "D) There is no significant difference in meaning"
+        ],
+        "correct_answer": "B",
+        "explanation": "The first describes a specific action (DAV), while the second assigns an abstract quality (ADJ/NN) that characterizes the government itself. This distinction is core to action portrayal annotation."
+      }
+    ]
+  },
+  "example_annotations": {
+    "title": "Guided Examples and Comprehension Check",
+    "instructions": "Below are example sentences from historical Wikipedia articles. We'll walk through annotations together, then you'll practice on your own.",
+    "worked_examples": [
+      {
+        "id": "example_1",
+        "text": "The Irish rebels fought against British occupation forces throughout the conflict.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Irish rebels",
+              "role_explanation": "The term 'rebels' is a protagonist role (specifically: Rebel), as they are fighting for liberation and challenging the status quo. 'Irish' provides context about their national identity."
+            },
+            {
+              "mention": "British occupation forces",
+              "role_explanation": "These are antagonist roles (Instigator, Foreign Adversary), as they are portrayed as external occupiers."
+            }
+          ],
+          "actions": [
+            {
+              "word": "fought",
+              "category": "Descriptive Action Verb (DAV)",
+              "explanation": "This is a concrete, specific description of military action."
+            }
+          ]
+        }
+      },
+      {
+        "id": "example_2",
+        "text": "The oppressed colonial subjects suffered systematic exploitation under imperial rule.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "colonial subjects",
+              "role_explanation": "These are innocent roles (Exploited, Victim), as they are characterized as suffering and being exploited."
+            }
+          ],
+          "actions": [
+            {
+              "word": "oppressed",
+              "category": "Adjective (ADJ)",
+              "explanation": "This is an abstract descriptor of a quality or state, describing the colonial subjects rather than a specific action."
+            },
+            {
+              "word": "suffered",
+              "category": "Interpretive Action Verb (IAV)",
+              "explanation": "This interprets the colonial subjects' experience—it's more abstract than a specific action like 'were beaten' but more concrete than 'were unfortunate.'"
+            },
+            {
+              "word": "exploitation",
+              "category": "Noun (NN)",
+              "explanation": "The most abstract level—this noun labels the systematic nature of harm rather than describing specific exploitative actions."
+            }
+          ]
+        }
+      }
+    ],
+    "practice_questions": [
+      {
+        "id": "practice_1",
+        "type": "annotation",
+        "text": "The Czech independence movement successfully resisted German domination.",
+        "task": "Identify actor roles for 'Czech independence movement' and 'German domination'",
+        "hint": "Think about whether these are portrayed as heroes/liberators or villains/oppressors.",
+        "sample_answer": {
+          "czech_movement": "Protagonist role - Rebel (fighting for independence)",
+          "german_domination": "Antagonist role - Tyrant/Foreign Adversary (oppressive external control)"
+        }
+      },
+      {
+        "id": "practice_2",
+        "type": "annotation",
+        "text": "The government ignored the marginalized population and implemented harsh policies.",
+        "task": "Classify the action words: 'ignored' and 'implemented'",
+        "hint": "Consider whether each describes a specific action or a more abstract quality.",
+        "sample_answer": {
+          "ignored": "Interpretive Action Verb (IAV) - interprets negligence without describing the specific action",
+          "implemented": "Descriptive Action Verb (DAV) - a concrete action of putting policy into effect"
+        }
+      },
+      {
+        "id": "practice_3",
+        "type": "annotation",
+        "text": "The nationalist regime was brutal and dishonest in its treatment of minorities.",
+        "task": "Identify the action portrayal categories for 'brutal' and 'dishonest'",
+        "hint": "These are descriptors of qualities. What category do they fall into?",
+        "sample_answer": {
+          "brutal": "Adjective (ADJ) - abstract descriptor of the regime's character",
+          "dishonest": "Adjective (ADJ) - abstract descriptor of the regime's truthfulness"
+        }
+      }
+    ],
+    "comprehension_check": {
+      "title": "Understanding Check",
+      "instructions": "Answer these questions to confirm you understand the task. You must answer at least 3 out of 4 correctly to proceed.",
+      "questions": [
+        {
+          "id": "check_1",
+          "type": "multiple_choice",
+          "question": "You encounter the sentence: 'The liberators freed the oppressed people.' Which roles would you assign?",
+          "options": [
+            "A) 'liberators' = Protagonist (Rebel); 'people' = Innocent (Victim)",
+            "B) 'liberators' = Antagonist; 'people' = Protagonist",
+            "C) 'liberators' = Innocent; 'people' = Antagonist",
+            "D) Both are neutral with no roles"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": "check_2",
+          "type": "multiple_choice",
+          "question": "Which level of abstraction is MOST abstract?",
+          "options": [
+            "A) Descriptive Action Verb",
+            "B) Interpretive Action Verb",
+            "C) Noun",
+            "D) State Verb"
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "id": "check_3",
+          "type": "multiple_choice",
+          "question": "The word 'conspirator' in 'The general was a conspirator' represents which category?",
+          "options": [
+            "A) An Actor Portrayal role (Antagonist)",
+            "B) An Action Portrayal category (Noun)",
+            "C) Both A and B (it's both an actor role label AND a noun)",
+            "D) Neither—it's just a descriptive term"
+          ],
+          "correct_answer": "C",
+          "explanation": "The word 'conspirator' serves a dual purpose: it's a Noun in the Action Portrayal system AND it labels the actor with the Antagonist role of 'Conspirator' in the Actor Portrayal system."
+        },
+        {
+          "id": "check_4",
+          "type": "multiple_choice",
+          "question": "When annotating 'The brave soldiers defended their homeland', what actions would you identify?",
+          "options": [
+            "A) 'brave' (ADJ), 'defended' (DAV)",
+            "B) 'brave' (Protagonist role), 'defended' (IAV)",
+            "C) 'soldiers' (NN), 'defended' (SV)",
+            "D) 'soldiers' (Guardian role), 'homeland' (DAV)"
+          ],
+          "correct_answer": "A",
+          "explanation": "'Brave' is an Adjective (ADJ) describing a quality, and 'defended' is a Descriptive Action Verb (DAV) describing a concrete military action."
+        }
+      ]
+    }
+  }
+}

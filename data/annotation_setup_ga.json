@@ -1,0 +1,227 @@
+{
+  "language": "Irish",
+  "instructions": {
+    "title": "Tasc Nótálaithe: Frámiú Insinte i mArtical Vicipéid",
+    "sections": [
+      {
+        "heading": "Forbhreathnú",
+        "content": "Sa tasc seo, anailíseoídh tú conas a bhíonn gníomhaithe stairiúla agus a ngníomhartha ionadaighthe in airteagail Vicipéid faoi choimhlintí coilíneach. Tabharfaidh do bhreithnithe cabhrú dúinn a thuiscint conas a bhíonn eagrán teanga éagsúil Vicipéid a gcur i láthair ar na heachtraí stairiúla céanna.\n\nGníomhaireacht dhomhain anailíseoidh teangeolaíochta a bhí ann. Ar do bharúil, léigh na treoir go cúramach agus fiaraigh ceist má bhí rud ar bith doilér."
+      },
+      {
+        "heading": "Cad a bheidh á nótálú agat",
+        "content": "Beidh dhá ghné dhíobháilse á nótálú agat:\n\n1. **Ionadaithí Ghníomhaithe**: Conas atá daoine/grúpaí a bhaineann le coimhlintí stairiúla i bproifíl? An bhfuil siad ionadaighthe mar laochra, díbheartaithe, drochúsáideoirí nó ar bhealaí eile?\n\n2. **Ionadaithí Ghníomhartha**: Conas a bhíonn gníomhartha curtha síos? An bhfuil cur síos ar an gníomhartha sonrach agus sainiúil, nó ar dhóigh eile abstracht agus mí-inneall?"
+      },
+      {
+        "heading": "Catagóirí Ionadaithí Ghníomhaithe",
+        "content": "Nuair a bhíonn tú ag teacht ar thagartha d'ghníomhaire stairiúil (duine, grúpa, náisiún), san dhéanamh dóibh ról príomhúil amháin:\n\n**Róil Phríomhgníomhaithe** (carachtúchán dearfach):\n- Coimeádaí: Cosantóirí ar bhaill, cothroime, sábháilteachta\n- Mairtíreach: Iad siúd a thugann sacrífice dó chúis\n- Síochánaí: Iad siúd a réitíonn coinbhleachtaí\n- Rebelaí: Iad siúd a throid ar shaoirse nó ar athrú\n- Oibrí Thúscanaí: Grúpaí atá i mbaill, agus a throid i gcoinne fórsaí níos láidire\n- Virtúosach: Iad siúd a bhíonn curtha in iúl mar dhíreach agus moréalta\n\n**Róil Dhréachtaí** (carachtúchán diúltach):\n- Soghairdeoir: Iad siúd a spreagann coinbhleachtaí\n- Comhghníomhaire: Iad siúd a bhíonn rannpháirteach i scéimeannaí agus gníomhaíochtaí falaigh\n- Tiarna Neamhceart: Rialaithe éagothrom a bhíonn á spréachaidh daoine\n- Namhaid Iasachta: Naimhdí seachtracha a bhíonn ag gníomhú i gcoinne leasa náisiúnta\n- Feallmharach: Iad siúd a bhíonn á fhágáil ar chúis nó ar thír\n- Spréachaire: Iad siúd a bhíonn ag gníomhú i spréachaireach\n- Diobhálaí: Iad siúd a spréachann dochar go cinnte\n- Truaillithe: Iad siúd ag gníomhú go ndeimhneach nó go bhréagach\n- Neamhinleor: Iad siúd ag déanamh dochair trí dhíth ar scil\n- Fheoil Dhorchadas: Iad siúd ag baint úsáide as foréigean ar fhóir idé-eolaíocha\n- Meallta: Iad siúd a bhíonn á shíniú an fhírinne agus á scaipeadh ar bhréag\n- Gréine: Iad siúd ar fé éachtaigh nó ar dhísaoil i gcoinne grúpaí ar leith\n\n**Róil Neamhchontúirt** (carachtúchán mar dhíbheartú):\n- Dearóil: Grúpaí atá á bhreisiú agus á bhreisiúchán\n- Bá-úsáidte: Iad siúd a úsáidtear ar shon brabúis daoine eile\n- Díbheart: Iad siúd a bhíonn ag fulaingt dó dhóigh seachtrach\n- Gabháil Uachtar: Iad siúd a bhíonn á leagadh as a chéile ar bhraistinti ar shlí éagothrom"
+      },
+      {
+        "heading": "Catagóirí Ionadaithí Ghníomhartha",
+        "content": "Nuair a bhíonn tú ag teacht ar chuir síos ar ghníomhartha (briathra, aidiachtaí, ainmneacha ag cur síos ar ionadú), a rá go bhfuil siad ó bharúil ó leibhéal eacnamaíochta:\n\n**Briathra Gníomhartha Tuairiscthe (DAV)**: Ionadú sainiúil, sonrach\n- Samplaí: \"bhuail\", \"rith\", \"thóg\", \"ionsaí\", \"idirphlé\"\n\n**Briathra Gníomhartha Léirmhínitheacha (IAV)**: Meánaibstracht ag léirmhíniú ionadú\n- Samplaí: \"chuidiú\", \"dhona\", \"thacaíonn\", \"bhac\", \"shéanadh\"\n\n**Briathra Stáit (SV)**: Stáit dhruim agus dísaolacha\n- Samplaí: \"grá\", \"ba bhreá\", \"chreidim\", \"gealtaí\", \"thogra\"\n\n**Aidiachtaí (ADJ)**: Tuairisceoirí ar cháilíochtaí\n- Samplaí: \"cairdiúil\", \"ceannairceach\", \"dána\", \"macánta\", \"feallach\"\n\n**Ainmneacha (NN)**: An-abstracht, marcanna de réir essence\n- Samplaí: \"tiarna\", \"laoch\", \"saorghníomhaire\", \"dioictéadóir\""
+      },
+      {
+        "heading": "Prionsabal Nótálaithe",
+        "content": "Nuair atá briathra a ríomh nó frásaí ábhartha i aon tseanfhocal, aithin an **an-leibhéal abstrachta ann**. Ar shampla:\n- \"Bhí sé ag eagrú freasúra armtha\" (DAV) vs. \"Is saorghníomhaire a bhí ann\" (NN)\n- Tá an ainmneach níos abstacht agus bhféadfadh sé a bheith ag socrú tine níos láidre\n\nFocus ar gach briathraig atá ag cur síos ar ghníomhaithe stairiúla agus ar a gníomhartha i dtaca leis an gcoimhlint."
+      },
+      {
+        "heading": "Caighdeáin Cháilíochta",
+        "content": "- Tóg do thréimhse ar gach nótáil\n- Smaoinigh ar an gcomhthéacs níos leithne an ailt\n- Bí comhsheasmhach i do thuairimí\n- Más rud is nach bhfuil sinn cinnte, tabhair an tuairim is fearr agat ar bhraistinti ar na sainmhínithe\n- Is féidir leat róil nó catagóirí iolracha a nótálú ar aon tseanfhocal amháin, más rud is go bhfuil sé ceart"
+      }
+    ]
+  },
+  "language_proficiency": {
+    "title": "Fhíorú ar Inniúlacht Teanga",
+    "instructions": "Ar do bharúil, freagair ar na ceisteanna seo a leanas do do thuairim ar an nGaeilge a bheith go fóill. Ní 'tria' ach iad, ní ach iad—cuidítear linne a chinntiú go bhféadfaidh na breithnithe an teanga stairiúil ar dhóigh chruinn a thuiscint.",
+    "questions": [
+      {
+        "id": "proficiency_1",
+        "type": "multiple_choice",
+        "question": "Cad a chiallaíonn an slonn 'namhaid iasachta' go príomha i gcomhthéacs polaiticiúil?",
+        "options": [
+          "A) Duine nach bhfuil siad i bhfabhar go pearsanta",
+          "B) Namhaid sheachtrach ag gníomhú i gcoinne leasa náisiúnta",
+          "C) Aon iomaitheoír i gcúrsaí gnó",
+          "D) Imní dhioplóimataíochta thréimhsiúla"
+        ],
+        "correct_answer": "B",
+        "explanation": "I gcomhthéacs polaiticiúil agus stairiúil, 'namhaid iasachta' a bheith i roinnt ar namhaid sheachtrach agus ag gníomhú i gcoinne leasa náisiúnta. Tá an nuance seo tábhachtach do nótálaithe."
+      },
+      {
+        "id": "proficiency_2",
+        "type": "multiple_choice",
+        "question": "Cén abairt a bheith ag úsáid teanga níos abstrachta do chur síos ar an gníomh céanna?",
+        "options": [
+          "A) Ghéill na saighdiúirí thar an teorainn",
+          "B) Rinne an náisiún ionradh",
+          "C) Thrasnigh na fórsaí an líne theorann",
+          "D) Bhreataigh na armáid i gcríocha námhaideach"
+        ],
+        "correct_answer": "B",
+        "explanation": "Abairt B ag úsáid 'rinne ionradh' (IAV) agus 'náisiún' (NN), ar a bhíonn abstacht agus léirmhíniú níos mó ná cur síos ar an gníomh i sochar eile."
+      },
+      {
+        "id": "proficiency_3",
+        "type": "multiple_choice",
+        "question": "Cad an difríocht idir 'Thug an rialtas srian ar' agus 'Tá an rialtas ag cur brú air'?",
+        "options": [
+          "A) Go bhfuil siad go díreach ar an gceachtar",
+          "B) An chéad ionadú ar bhreith, an dara ceann ar charachtúchán abstracht",
+          "C) An chéad ionadú ar thobann, an dara ceann ar dhiúltú",
+          "D) Níl difríocht ar fhios mór ann sa bhrí"
+        ],
+        "correct_answer": "B",
+        "explanation": "Bhraitheann an chéad ar bhreith ar leith (DAV), agus bhraitheann an dara ar gach cáilíochta abstracht (ADJ/NN) ar ionradh a charachtúchán ar an rialtas, féin. Tá an difreálú seo fúntach do nótálaithe ar ionadaithí ghníomhartha."
+      }
+    ]
+  },
+  "example_annotations": {
+    "title": "Samplaí Treoraithe agus Seiceáil Thuisceana",
+    "instructions": "Thíos atá samplaí abairtí ó articles stair-úla Vicipéid. Tugaimid ar aghaidh samplaí le chéile, agus ansin a bheidh ann ag obair do liom féin.",
+    "worked_examples": [
+      {
+        "id": "example_1",
+        "text": "Ba raibh an Éireannach ag bohairt i gcoinne fórsaí gabháiltí Bhreatnach ar feadh an choimhlint.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Rebelaí Éireannacha",
+              "role_explanation": "Is ról prótagónaistí an téarma 'rebelaí' (go sonrach: Rebelaí), toisc go bhfuil siad ag bohairt ar shaoirse agus ag dúbirt ar an stádas-seo. Tugann 'Éireannach' comhthéacs ar a n-fhéiniúlacht náisiúnta."
+            },
+            {
+              "mention": "Fórsaí gabháiltí Bhreatnach",
+              "role_explanation": "Is róil dhréachtaí iad (Soghairdeoir, Namhaid Iasachta), toisc go bhfuil siad ar ionadaithí mar ghabháltoirí seachtracha."
+            }
+          ],
+          "actions": [
+            {
+              "word": "bohairt",
+              "category": "Briathara Gníomhartha Tuairiscthe (DAV)",
+              "explanation": "Is ionadú sainiúil, sonrach ar dhréachta armtha."
+            }
+          ]
+        }
+      },
+      {
+        "id": "example_2",
+        "text": "Ba raibh an chréatúir choilíneach ar dhomhain fulaingt faoi bhailiúchán go sistéamach faoi rialú impireách.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Díbheartaithe coilíneacha",
+              "role_explanation": "Is róil neamhchontúirt iad (Bá-úsáidte, Díbheart), toisc go bhfuil siad ar ionadaithí mar dhúlagmharach agus bá-úsáidte."
+            }
+          ],
+          "actions": [
+            {
+              "word": "fulaingt",
+              "category": "Aidiacht (ADJ)",
+              "explanation": "Is ionadú abstracht ar cháilíochtaí nó ar stáit é seo, ar ionadaithí na ndíbheartaithe coilíneacha, ní ar bhreith sainiúil."
+            },
+            {
+              "word": "fulaingt",
+              "category": "Briathara Gníomhartha Léirmhínitheacha (IAV)",
+              "explanation": "Tugann sé léirmhíniú ar thaithí na ndíbheartaithe—tá sé níos abstracht ná breith ar leith ar bhás tháirimh ar nós 'a raibh siad curtha síos', ach níos soiléire ná 'go raibh siad brónach'."
+            },
+            {
+              "word": "bailiúchán",
+              "category": "Ainmneacha (NN)",
+              "explanation": "An leibhéal is abstracht—tugann an ainmneach seo nóta ar naithníthe a dhóigh sistéamach ar dhíobháil, seachas a cur síos ar gach gníomh bailiúchán ar leith."
+            }
+          ]
+        }
+      }
+    ],
+    "practice_questions": [
+      {
+        "id": "practice_1",
+        "type": "annotation",
+        "text": "Ba raibh gluaiseacht neamhspleáchais Tcéiceach go rathúil i gcoinne umhláchta Ghearmáine.",
+        "task": "Aitheachtáil róil gníomhaithe ar 'gluaiseacht neamhspleáchais Tcéiceach' agus ar 'umhláchta Ghearmáine'",
+        "hint": "Smaoinigh ar cé acu a bhíonn siad ar ionadaithí mar laochra/saorghníomhairí nó ar dhrochmhuintir/umhláitheoirí.",
+        "sample_answer": {
+          "czech_movement": "Ról phríomhgníomhaithe - Rebelaí (ag bohairt ar neamhspleáchas)",
+          "german_domination": "Ról dhréachtaí - Tiarna/Namhaid Iasachta (umhláchta fhúathúil)",
+          "external": "Bhí sé ag socrú fó lóchta"
+        }
+      },
+      {
+        "id": "practice_2",
+        "type": "annotation",
+        "text": "Rinne an rialtas a dhíchur ar an bpobal faoin margadh agus tháibhsigh siad ar dhóighneasa foirmiúla.",
+        "task": "Catagóirig an fhocal ghníomhartha: 'dhíchur' agus 'tháibhsigh'",
+        "hint": "Smaoinigh ar cé acu a bhíonn gach briathraig ag cur síos ar bhreith shainiúil nó ar cháilíochtaí abstrachta.",
+        "sample_answer": {
+          "dhíchur": "Briathara Gníomhartha Léirmhínitheacha (IAV) - léirmhínithe ar fhaillí, gan bhreith ar leith a dhéanamh",
+          "tháibhsigh": "Briathara Gníomhartha Tuairiscthe (DAV) - breith ar leith ar thabhairt polasaí i bhfeidhm"
+        }
+      },
+      {
+        "id": "practice_3",
+        "type": "annotation",
+        "text": "Ba raibh an rialtas naisúnta fíochmhar agus neamhíontaofa ar a láimhseáil ar leibhéal.",
+        "task": "Aitheachtáil catagóirí ionadaithí ghníomhartha ar 'fíochmhar' agus ar 'neamhíontaofa'",
+        "hint": "Iad seo tuairisceoirí ar cháilíochtaí. Cén catagóir a bhíonn siad ann?",
+        "sample_answer": {
+          "fíochmhar": "Aidiacht (ADJ) - ionadú abstracht ar chineál an rialtas",
+          "neamhíontaofa": "Aidiacht (ADJ) - ionadú abstracht ar iontaoibh an rialtas"
+        }
+      }
+    ],
+    "comprehension_check": {
+      "title": "Seiceáil Thuisceana",
+      "instructions": "Freagair ar na ceisteanna seo ar ais, a dheimhniú go dtuigeann tú an tasc. Caithfidh tú a bhheith i ndiaidh níos mó ná 3 de 4 ceist go ceart a fhreagairt ar dhul ar aghaidh.",
+      "questions": [
+        {
+          "id": "check_1",
+          "type": "multiple_choice",
+          "question": "Bualairt tú ar an abairt: 'Ba raibh na saorghníomhairí ag glacadh ar an bpobal ar dhomhain.' Cén róil ba bhreá leat a thabhairt?",
+          "options": [
+            "A) 'Saorghníomhairí' = Prótagónaistí (Rebelaí); 'pobal' = Neamhchontúirt (Díbheart)",
+            "B) 'Saorghníomhairí' = Dréachtaí; 'pobal' = Prótagónaistí",
+            "C) 'Saorghníomhairí' = Neamhchontúirt; 'pobal' = Dréachtaí",
+            "D) Tugtar ar an dá neamh-róla ar fad"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": "check_2",
+          "type": "multiple_choice",
+          "question": "Cén leibhéal abstrachta atá go bhfuil siad AN-ABSTRACHT?",
+          "options": [
+            "A) Briathara Gníomhartha Tuairiscthe",
+            "B) Briathara Gníomhartha Léirmhínitheacha",
+            "C) Ainmneacha",
+            "D) Briathra Stáit"
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "id": "check_3",
+          "type": "multiple_choice",
+          "question": "Is ionadú do 'comhghníomhaire' san abairt 'Ba raibh an taoiseach ina chomhghníomhaire' a bheith:",
+          "options": [
+            "A) Ról ionadaithí ghníomhaithe (Dréachtaí)",
+            "B) Catagóir ionadaithí ghníomhartha (Ainmneacha)",
+            "C) An dá A agus B (is ionadú ó áit ar fud gach ról gníomhaithe, IS ainmneacha)",
+            "D) Aon cheann - is téarma tuairisciúil geal atá ann"
+          ],
+          "correct_answer": "C",
+          "explanation": "An briathraig 'comhghníomhaire' a bheith ar an chúrsa dhúbilte: tá sé ina Ainmneacha i gcóras ionadaithí ghníomhartha AIS tá sé mar a ionadú ar an ngníomhaire leis an ról Dréachtaí 'Comhghníomhaire' sa chóras ionadaithí ghníomhaithe."
+        },
+        {
+          "id": "check_4",
+          "type": "multiple_choice",
+          "question": "Nuair a bhíonn tú á nótálú 'Ba raibh na saighdiúirí dana ag cosaint a dtír', cén gníomhartha ba bhreá leat a aithin?",
+          "options": [
+            "A) 'dana' (ADJ), 'cosaint' (DAV)",
+            "B) 'dana' (Prótagónaist-ról), 'cosaint' (IAV)",
+            "C) 'saighdiúirí' (NN), 'cosaint' (SV)",
+            "D) 'saighdiúirí' (Ról Choiméadaí), 'tír' (DAV)"
+          ],
+          "correct_answer": "A",
+          "explanation": "'Dana' is Aidiacht (ADJ) a dhéanann cur síos ar cháilíochtaí, agus 'cosaint' is Briathara Gníomhartha Tuairiscthe (DAV) a dhéanann cur síos ar bhreith shainiúil armtha."
+        }
+      ]
+    }
+  }
+}

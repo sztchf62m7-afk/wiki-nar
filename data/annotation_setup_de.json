@@ -1,0 +1,226 @@
+{
+  "language": "German",
+  "instructions": {
+    "title": "Annotationsaufgabe: Narrative Rahmung in Wikipedia-Artikeln",
+    "sections": [
+      {
+        "heading": "Übersicht",
+        "content": "In dieser Aufgabe werden Sie analysieren, wie historische Akteure und ihre Handlungen in Wikipedia-Artikeln über Kolonialkonf likts dargestellt werden. Ihre Annotationen helfen uns zu verstehen, wie verschiedene Sprachausgaben von Wikipedia dieselben historischen Ereignisse darstellen.\n\nDies ist eine detaillierte linguistische Analysaufgabe. Bitte lesen Sie die Anweisungen sorgfältig durch und stellen Sie Fragen, falls etwas unklar ist."
+      },
+      {
+        "heading": "Was Sie annotieren werden",
+        "content": "Sie werden zwei Hauptaspekte annotieren:\n\n1. **Akteurs-Darstellung**: Wie werden die an historischen Konflikten beteiligten Personen/Gruppen charakterisiert? Werden sie als Helden, Opfer, Bösewichte oder anderweitig dargestellt?\n\n2. **Handlungs-Darstellung**: Wie werden Handlungen beschrieben? Sind die Beschreibungen konkret und spezifisch, oder abstrakt und interpretativ?"
+      },
+      {
+        "heading": "Akteurs-Darstellung Kategorien",
+        "content": "Wenn Sie auf eine Erwähnung eines historischen Akteurs (Person, Gruppe, Nation) stoßen, weisen Sie ihnen eine primäre Rolle zu:\n\n**Protagonist-Rollen** (positive Charakterisierung):\n- Hüter: Beschützer von Werten, Gerechtigkeit und Sicherheit\n- Märtyrer: Diejenigen, die sich für eine Sache opfern\n- Friedensstifter: Diejenigen, die Konflikte lösen\n- Rebell: Diejenigen, die für Befreiung oder Veränderung kämpfen\n- Außenseiter: Benachteiligte Gruppen, die gegen stärkere Kräfte kämpfen\n- Tugendhaft: Diejenigen, die als tugendhaft und moralisch dargestellt werden\n\n**Antagonist-Rollen** (negative Charakterisierung):\n- Anstifter: Diejenigen, die Konflikte provozieren\n- Verschwörer: Diejenigen, die in Verschwörungen und verdeckte Aktivitäten verwickelt sind\n- Tyrann: Ungerechte Herrscher, die andere unterdrücken\n- Ausländischer Gegner: Externe Feinde, die gegen nationale Interessen handeln\n- Verräter: Diejenigen, die ihre Sache oder ihr Land verraten\n- Spion: Diejenigen, die in Spionage tätig sind\n- Saboteur: Diejenigen, die absichtlich Störungen verursachen\n- Korrupt: Diejenigen, die sich unethisch verhalten\n- Inkompetent: Diejenigen, die durch Mangel an Geschick Schaden verursachen\n- Terrorist: Diejenigen, die Gewalt für ideologische Ziele einsetzen\n- Betrüger: Diejenigen, die die Wahrheit verdrehen und Desinformation verbreiten\n- Bigott: Diejenigen, die sich feindselig oder diskriminierend gegenüber bestimmten Gruppen verhalten\n\n**Unschuldig-Rollen** (Opfcharakterisierung):\n- Vergessen: Marginalisierte und übersehene Gruppen\n- Ausgebeutet: Diejenigen, die für den Gewinn anderer genutzt werden\n- Opfer: Diejenigen, die durch Umstände außerhalb ihrer Kontrolle leiden\n- Sündenbock: Diejenigen, die ungerechtfertigt für Probleme verantwortlich gemacht werden"
+      },
+      {
+        "heading": "Handlungs-Darstellung Kategorien",
+        "content": "Wenn Sie Beschreibungen von Handlungen begegnen (Verben, Adjektive, Nomen, die Verhalten beschreiben), klassifizieren Sie diese nach ihrem Abstraktionsgrad:\n\n**Deskriptive Handlungsverben (DAV)**: Konkrete, spezifische Verhaltensweisen\n- Beispiele: \"schlägt\", \"läuft\", \"baut\", \"greift an\", \"verhandelt\"\n\n**Interpretative Handlungsverben (IAV)**: Mittelabstraktionen, die Verhalten interpretieren\n- Beispiele: \"hilft\", \"schadet\", \"unterstützt\", \"behindert\", \"widersetzt sich\"\n\n**Zustandsverben (SV)**: Abstrakte mentale Zustände und Dispositionen\n- Beispiele: \"liebt\", \"möchte\", \"glaubt\", \"fürchtet\", \"begehrt\"\n\n**Adjektive (ADJ)**: Deskriptoren von Qualitäten\n- Beispiele: \"freundlich\", \"grausam\", \"mutig\", \"ehrlich\", \"aggressiv\"\n\n**Nomen (NN)**: Am abstraktesten, Bezeichnung nach Wesen\n- Beispiele: \"Tyrann\", \"Held\", \"Freiheitskämpfer\", \"Tyrann\""
+      },
+      {
+        "heading": "Annotationsprinzip",
+        "content": "Wenn ein Satz mehrere relevante Wörter oder Phrasen enthält, identifizieren Sie die **höchste vorhandene Abstraktionsebene**. Zum Beispiel:\n- \"Er organisierte bewaffneten Widerstand\" (DAV) vs. \"Er ist ein Freiheitskämpfer\" (NN)\n- Das Nomen ist abstrakter und kann auf stärkere Rahmung hindeuten\n\nKonzentrieren Sie sich auf Wörter, die die historischen Akteure und ihre Handlungen im Kontext des Konflikts beschreiben."
+      },
+      {
+        "heading": "Qualitätsstandards",
+        "content": "- Nehmen Sie sich Zeit für jede Annotation\n- Berücksichtigen Sie den breiteren Kontext des Artikels\n- Seien Sie konsistent in Ihren Interpretationen\n- Wenn Sie sich unsicher sind, geben Sie Ihr bestes Urteil basierend auf den Definitionen ab\n- Sie können mehrere Rollen oder Kategorien für einen Satz annotieren, falls angebracht"
+      }
+    ]
+  },
+  "language_proficiency": {
+    "title": "Sprachkompetenz-Überprüfung",
+    "instructions": "Bitte beantworten Sie die folgenden Fragen, um Ihre Deutschkenntnisse zu überprüfen. Dies sind keine 'Tests'—sie helfen uns sicherzustellen, dass Annotatoren die nuancierte historische Sprache genau verstehen können.",
+    "questions": [
+      {
+        "id": "proficiency_1",
+        "type": "multiple_choice",
+        "question": "Was bedeutet der Ausdruck 'ausländischer Gegner' am ehesten im politischen Kontext?",
+        "options": [
+          "A) Eine Person, die persönlich mit Ihnen nicht einer Meinung ist",
+          "B) Ein externer Feind, der gegen nationale Interessen handelt",
+          "C) Jeder Konkurrent im Geschäftsleben",
+          "D) Eine vorübergehende diplomatische Meinungsverschiedenheit"
+        ],
+        "correct_answer": "B",
+        "explanation": "Im politischen und historischen Kontext bezeichnet 'ausländischer Gegner' externe Feinde, die gegen die Interessen einer Nation handeln. Diese Nuance ist für die Annotation wichtig."
+      },
+      {
+        "id": "proficiency_2",
+        "type": "multiple_choice",
+        "question": "Welcher Satz verwendet abstraktere Sprache zur Beschreibung derselben Handlung?",
+        "options": [
+          "A) Die Soldaten marschierten über die Grenze",
+          "B) Die Nation führte eine Invasion durch",
+          "C) Die Truppen überschritten die Grenzlinie",
+          "D) Die Armeen drangen in feindselig Gebiet ein"
+        ],
+        "correct_answer": "B",
+        "explanation": "Satz B verwendet 'führte eine Invasion durch' (IAV) und 'Nation' (NN), die abstrakter und interpretativ sind als die konkreten Handlungsbeschreibungen in den anderen Optionen."
+      },
+      {
+        "id": "proficiency_3",
+        "type": "multiple_choice",
+        "question": "Was ist der Unterschied zwischen 'Die Regierung verhängte Einschränkungen' und 'Die Regierung ist unterdrückerisch'?",
+        "options": [
+          "A) Sie bedeuten genau dasselbe",
+          "B) Das erste ist konkrete Handlung, das zweite ist abstrakte Charakterisierung",
+          "C) Das erste ist positiv, das zweite ist negativ",
+          "D) Es gibt keinen signifikanten Unterschied in der Bedeutung"
+        ],
+        "correct_answer": "B",
+        "explanation": "Das erste beschreibt eine spezifische Handlung (DAV), während das zweite eine abstrakte Qualität (ADJ/NN) zuweist, die die Regierung selbst charakterisiert. Diese Unterscheidung ist zentral für die Annotation von Handlungsdarstellung."
+      }
+    ]
+  },
+  "example_annotations": {
+    "title": "Gelenkte Beispiele und Verständniskontrolle",
+    "instructions": "Unten finden Sie Beispielsätze aus historischen Wikipedia-Artikeln. Wir werden Annotationen zusammen durchgehen und Sie werden dann selbst üben.",
+    "worked_examples": [
+      {
+        "id": "example_1",
+        "text": "Die irischen Rebellen kämpften während des Konflikts gegen britische Besatzungstruppen.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Irische Rebellen",
+              "role_explanation": "Der Begriff 'Rebellen' ist eine Protagonist-Rolle (spezifisch: Rebell), da sie für Befreiung kämpfen und den Status quo in Frage stellen. 'Irisch' gibt Kontext über ihre nationale Identität."
+            },
+            {
+              "mention": "Britische Besatzungstruppen",
+              "role_explanation": "Dies sind Antagonist-Rollen (Anstifter, Ausländischer Gegner), da sie als externe Besatzer dargestellt werden."
+            }
+          ],
+          "actions": [
+            {
+              "word": "kämpften",
+              "category": "Deskriptives Handlungsverb (DAV)",
+              "explanation": "Dies ist eine konkrete, spezifische Beschreibung militärischer Handlung."
+            }
+          ]
+        }
+      },
+      {
+        "id": "example_2",
+        "text": "Die unterdrückten Kolonialuntertanen litten unter systematischer Ausbeutung unter imperialer Herrschaft.",
+        "analysis": {
+          "actors": [
+            {
+              "mention": "Kolonialuntertanen",
+              "role_explanation": "Dies sind Unschuldig-Rollen (Ausgebeutet, Opfer), da sie als leidend und ausgebeutet charakterisiert werden."
+            }
+          ],
+          "actions": [
+            {
+              "word": "unterdrückten",
+              "category": "Adjektiv (ADJ)",
+              "explanation": "Dies ist ein abstrakter Deskriptor einer Qualität oder eines Zustands, der die Kolonialuntertanen beschreibt, nicht eine spezifische Handlung."
+            },
+            {
+              "word": "litten",
+              "category": "Interpretatives Handlungsverb (IAV)",
+              "explanation": "Dies interpretiert die Erfahrung der Kolonialuntertanen—es ist abstrakter als eine spezifische Handlung wie 'wurden geschlagen', aber konkreter als 'waren unglücklich'."
+            },
+            {
+              "word": "Ausbeutung",
+              "category": "Nomen (NN)",
+              "explanation": "Die abstrakteste Ebene—dieses Nomen kennzeichnet die systematische Natur des Schadens, anstatt spezifische Ausbeutungshandlungen zu beschreiben."
+            }
+          ]
+        }
+      }
+    ],
+    "practice_questions": [
+      {
+        "id": "practice_1",
+        "type": "annotation",
+        "text": "Die tschechische Unabhängigkeitsbewegung widerstand erfolgreich der deutschen Dominanz.",
+        "task": "Identifizieren Sie Akteurs-Rollen für 'tschechische Unabhängigkeitsbewegung' und 'deutsche Dominanz'",
+        "hint": "Überlegen Sie, ob diese als Helden/Befreier oder Bösewichte/Unterdrücker dargestellt werden.",
+        "sample_answer": {
+          "czech_movement": "Protagonist-Rolle - Rebell (kämpft für Unabhängigkeit)",
+          "german_domination": "Antagonist-Rolle - Tyrann/Ausländischer Gegner (unterdrückerische externe Kontrolle)"
+        }
+      },
+      {
+        "id": "practice_2",
+        "type": "annotation",
+        "text": "Die Regierung ignorierte die marginalisierte Bevölkerung und führte harte Richtlinien durch.",
+        "task": "Klassifizieren Sie die Handlungswörter: 'ignorierte' und 'führte durch'",
+        "hint": "Beachten Sie, ob jedes Wort eine spezifische Handlung beschreibt oder eine abstraktere Qualität.",
+        "sample_answer": {
+          "ignorierte": "Interpretatives Handlungsverb (IAV) - interpretiert Vernachlässigung, ohne die spezifische Handlung zu beschreiben",
+          "führte durch": "Deskriptives Handlungsverb (DAV) - eine konkrete Handlung der Umsetzung von Politik"
+        }
+      },
+      {
+        "id": "practice_3",
+        "type": "annotation",
+        "text": "Das nationalistische Regime war brutal und unehrlich in seiner Behandlung von Minderheiten.",
+        "task": "Identifizieren Sie die Handlungsdarstellung-Kategorien für 'brutal' und 'unehrlich'",
+        "hint": "Dies sind Deskriptoren von Qualitäten. In welche Kategorie fallen sie?",
+        "sample_answer": {
+          "brutal": "Adjektiv (ADJ) - abstrakter Deskriptor des Charakters des Regimes",
+          "unehrlich": "Adjektiv (ADJ) - abstrakter Deskriptor der Wahrhaftigkeit des Regimes"
+        }
+      }
+    ],
+    "comprehension_check": {
+      "title": "Verständniskontrolle",
+      "instructions": "Beantworten Sie diese Fragen, um zu bestätigen, dass Sie die Aufgabe verstehen. Sie müssen mindestens 3 von 4 korrekt beantworten, um fortzufahren.",
+      "questions": [
+        {
+          "id": "check_1",
+          "type": "multiple_choice",
+          "question": "Sie stoßen auf den Satz: 'Die Befreier befreiten die unterdrückten Menschen.' Welche Rollen würden Sie zuweisen?",
+          "options": [
+            "A) 'Befreier' = Protagonist (Rebell); 'Menschen' = Unschuldig (Opfer)",
+            "B) 'Befreier' = Antagonist; 'Menschen' = Protagonist",
+            "C) 'Befreier' = Unschuldig; 'Menschen' = Antagonist",
+            "D) Beide sind neutral ohne Rollen"
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "id": "check_2",
+          "type": "multiple_choice",
+          "question": "Welche Abstraktionsebene ist AM MEISTEN abstrakt?",
+          "options": [
+            "A) Deskriptives Handlungsverb",
+            "B) Interpretatives Handlungsverb",
+            "C) Nomen",
+            "D) Zustandsverb"
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "id": "check_3",
+          "type": "multiple_choice",
+          "question": "Das Wort 'Verschwörer' in 'Der General war ein Verschwörer' stellt dar:",
+          "options": [
+            "A) Eine Akteurs-Darstellungsrolle (Antagonist)",
+            "B) Eine Handlungsdarstellung-Kategorie (Nomen)",
+            "C) Beide A und B (es ist sowohl eine Akteurs-Rollenkennzeichnung ALS AUCH ein Nomen)",
+            "D) Keines—es ist nur ein beschreibender Begriff"
+          ],
+          "correct_answer": "C",
+          "explanation": "Das Wort 'Verschwörer' dient einem doppelten Zweck: Es ist ein Nomen im Handlungsdarstellung-System UND es kennzeichnet den Akteur mit der Antagonist-Rolle 'Verschwörer' im Akteurs-Darstellung-System."
+        },
+        {
+          "id": "check_4",
+          "type": "multiple_choice",
+          "question": "Bei der Annotation von 'Die mutigen Soldaten verteidigten ihre Heimat', welche Handlungen würden Sie identifizieren?",
+          "options": [
+            "A) 'mutig' (ADJ), 'verteidigten' (DAV)",
+            "B) 'mutig' (Protagonist-Rolle), 'verteidigten' (IAV)",
+            "C) 'Soldaten' (NN), 'verteidigten' (SV)",
+            "D) 'Soldaten' (Hüter-Rolle), 'Heimat' (DAV)"
+          ],
+          "correct_answer": "A",
+          "explanation": "'Mutig' ist ein Adjektiv (ADJ), das eine Qualität beschreibt, und 'verteidigten' ist ein Deskriptives Handlungsverb (DAV), das eine konkrete militärische Handlung beschreibt."
+        }
+      ]
+    }
+  }
+}
